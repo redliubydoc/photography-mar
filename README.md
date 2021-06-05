@@ -1,34 +1,30 @@
 # My Photography Collection for MAR Points
 
-## Theme: Environment
-
-
+## Theme: Nature
   
 ![Happy Christmas](blue_or_green_planet.jpg)
-
-[ ! ] _green and blue planet or a red and dull planet?_
-
-
-  
-
-
-## Theme: Hard work and Patience
+_green planet_
+#
+![Happy Christmas](sunset_sky.jpg)
+_sunset sky_
+#
+![Happy Christmas](sky_after_rain.jpg)
+_sky after rain_
+#
 ![Happy Christmas](sabar_ka_fal_mitha_hota_hai.jpg)
+_sabar ka fal mitha hota hai_
 
-[ ! ] _sabar ka fal hamesha mitha hota_hai_
 
-
-  
+#
+#
 ## Recycle Waste
 
-
-  
-
-
-
+#
 ![Happy Christmas](this_is_not_rose.jpg)
+_this is note rose_
 
-[ ! ] _this is not rose!_
+Note: all picture of nature are either taken from rooftop or garden without violating any covid norms
+
 
 
 
