@@ -21,7 +21,7 @@ _sabar ka fal mitha hota hai_
 
 #
 ![Happy Christmas](this_is_not_rose.jpg)
-_this is note rose_
+_this is not rose_
 
 Note: all pictures of nature are either taken from rooftop or from garden without violating any covid norms
 
